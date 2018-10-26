@@ -98,5 +98,5 @@ namespace PruebaVector
 ![Flux Explained](http://3.bp.blogspot.com/-Bym35WE6rRI/UeYFMF7KnfI/AAAAAAAABVU/lm2hdpCvj4U/s1600/metodo+de+ordenamiento+shell+sort+en+c%23.png)
 ---
 ## Referencias
-ttp://github.com - automatic!
+http://github.com - automatic!
 [GitHub](http://github.com)
