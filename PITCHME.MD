@@ -3,12 +3,9 @@ Es un algoritmo de ordenación interna muy sencillo pero muy ingenioso, basado e
 
 ---
 
-### Flux Design
+### Origen
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
+- El Shell sort lleva este nombre en honor a su inventor, Donald Shell, que lo publicó en 1959. Algunos libros de texto y referencias antiguas le llaman ordenación "Shell-Metzner" por Marlene Metzner Norton, pero según Metzner, "No tengo nada que ver con el algoritmo de ordenamiento, y mi nombre nunca debe adjuntarse a éste."
 ---
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
