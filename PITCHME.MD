@@ -1,4 +1,4 @@
-# Flux 
+# Shell sort
 
 An application architecture for React
 
