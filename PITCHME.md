@@ -96,6 +96,8 @@ namespace PruebaVector
 ```
 
 ![Flux Explained](http://3.bp.blogspot.com/-Bym35WE6rRI/UeYFMF7KnfI/AAAAAAAABVU/lm2hdpCvj4U/s1600/metodo+de+ordenamiento+shell+sort+en+c%23.png)
+---
+### ejemplo
 http://lwh.free.fr/pages/algo/tri/tri_es.htm
 ---
 ## Referencias
